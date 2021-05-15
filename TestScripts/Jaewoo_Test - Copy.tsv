@@ -1,0 +1,11 @@
+Time (s)	Control	Control Indicator	Value
+1	Valves	1	0
+2	Valves	2	0
+3	MFC	A	0
+4	MFC	B	0
+5	MFC	C	0
+6	MFC	A	1000
+11	LED	0	2
+12	LED	0	0
+13	MFC	A	0
+16	EndTime		
